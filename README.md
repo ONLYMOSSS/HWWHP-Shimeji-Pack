@@ -1,4 +1,5 @@
 [![Downloads](https://img.shields.io/github/downloads/ONLYMOSSS/HWWHP-Shimeji-Pack/total?style=for-the-badge&logo=github&color=blue)](https://github.com/ONLYMOSSS/HWWHP-Shimeji-Pack/releases)
+[![StrawPage](https://img.shields.io/badge/StrawPage-My%20Page-FF0000?style=for-the-badge&logo=strawpage&logoColor=white)](https://onlymosss.straw.page)
 [![Discord Profile](https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1246096760066015243)
 [![Roblox](https://img.shields.io/badge/Roblox-Profile-FF0000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/3181339248/profile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ONLYMOSSS)
