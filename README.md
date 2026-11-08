@@ -4,7 +4,7 @@
 [![Roblox](https://img.shields.io/badge/Roblox-Profile-FF0000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/3181339248/profile)
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ONLYMOSSS)
 
-HWWHP Shimeji Pack (v1.0.0)
+HWWHP Shimeji Pack (v1.0.1)
 
 Welcome to the desktop Shimeji mascot pack based on the psychological horror Roblox game "HWWHP" (Happy World With Happy People)! 
 Keep your favorite characters walking, crawling, and sitting right on your screen :D
