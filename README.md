@@ -6,6 +6,11 @@
 
 HWWHP Shimeji Pack (v1.0.1)
 
+Notice: Project on Indefinite Hiatus
+I have decided to put this project on hold indefinitely.
+I originally made this because I loved the game and wanted to contribute to the community. However, the community's attitude towards my work and me as a creator has been deeply disappointing. When a community values "connections" and elitism over actual effort and creativity it's no longer a place I want to invest my time in.
+The code/files will stay here for anyone who wants to use them. But this is where my journey with this project ends. Take care.
+
 Welcome to the desktop Shimeji mascot pack based on the psychological horror Roblox game "HWWHP" (Happy World With Happy People)! 
 Keep your favorite characters walking, crawling, and sitting right on your screen :D
 
